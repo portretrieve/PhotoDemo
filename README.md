@@ -1,2 +1,2 @@
-# PhotoDemo
+# PhotoDemo Practice
 
